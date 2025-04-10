@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👾 AI Red Teamer | Offensive Security Specialist | Instructor
 
-<!--
-**randalltr/randalltr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Classically trained in programming and cybersecurity, I now focus on red teaming the next frontier: AI systems.
 
-Here are some ideas to get you started:
+I'm a former NASA contractor, current instructor at CodeNoobs, and passionate about aligning cutting-edge tech with real-world safety.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 **Certifications**  
+- Master’s in Cybersecurity  
+- AIRTP+ (AI Red Teaming Professional)  
+- Pentest+  
+- CySA+  
+- Security+  
+- Network+  
+
+🧠 **Focus Areas**  
+- AI Red Teaming & Adversarial Testing  
+- Prompt Injection & Jailbreak Analysis  
+- Web App Security & Pentesting  
+- Ethical Hacking Education & Simulation
+
+🔬 **Projects**  
+Coming soon: pentest reports, adversarial AI writeups, and lightweight tools to support AI security research.
+
+---
+
+*Not-knowing is true knowledge.*
