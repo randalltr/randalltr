@@ -33,4 +33,4 @@ Coming soon: more AI Red Teaming books, adversarial AI writeups, and lightweight
 
 ---
 
-*Not-knowing is true knowledge.*
+*AI is like a child: you feed it data, let it play, and hope it doesn’t grow up to destroy humanity.*
