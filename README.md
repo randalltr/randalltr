@@ -1,5 +1,5 @@
 # 👾 **AI Red Teamer | Offensive Security Specialist | Instructor**  
-Classically trained in programming and cybersecurity, I now focus on red teaming the next frontier: AI systems.
+Classically trained in programming and cybersecurity, I now focus on the next frontier: AI Red Teaming.
 
 I'm a former NASA contractor, current instructor at **CodeNoobs**, and passionate about aligning cutting-edge tech with real-world safety.
 
