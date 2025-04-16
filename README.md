@@ -12,7 +12,7 @@ I'm a former NASA contractor, current instructor at **CodeNoobs**, and passionat
 ---
 
 🔐 **Certifications**
-- Master’s in Cybersecurity  
+- MS in Cybersecurity, BS in Physics and Philosophy  
 - AIRTP+ (AI Red Teaming Professional)  
 - CompTIA Pentest+, CySA+, Security+, Network+  
 - AWS Developer, Solutions Architect, and Cloud Practitioner 
