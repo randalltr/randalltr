@@ -14,10 +14,9 @@ I'm a former NASA contractor, current instructor at **CodeNoobs**, and passionat
 🔐 **Certifications**
 - Master’s in Cybersecurity  
 - AIRTP+ (AI Red Teaming Professional)  
-- CompTIA Pentest+  
-- CompTIA CySA+  
-- CompTIA Security+  
-- CompTIA Network+  
+- CompTIA Pentest+, CySA+, Security+, Network+  
+- AWS Developer, Solutions Architect, and Cloud Practitioner 
+- HashiCorp Terraform Associate
 
 ---
 
