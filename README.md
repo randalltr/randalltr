@@ -6,8 +6,9 @@ I'm a former NASA contractor, current instructor at **CodeNoobs**, and passionat
 ---
 
 📚 **Publications**
-- [*Black Hat AI*](https://github.com/randalltr/black-hat-ai)
-- [*AI Red Teaming Playbook*](https://github.com/randalltr/ai-red-teaming-playbook)
+- [*Red Teaming the Prompt: A Hacker’s Guide to LLM Exploits*](https://github.com/randalltr/red-teaming-the-prompt)
+- [*Black Hat AI: Offensive Techniques for Breaking and Bending Machine Minds*](https://github.com/randalltr/black-hat-ai)
+- [*AI Red Teaming Playbook: The ultimate field manual for attacking, probing, and understanding large language models (LLMs).*](https://github.com/randalltr/ai-red-teaming-playbook)
 
 ---
 
