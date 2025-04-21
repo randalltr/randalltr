@@ -10,6 +10,7 @@ I'm a former NASA contractor, current instructor at **CodeNoobs**, and passionat
 - 🟡 [***Prompt Engineering for Hackers**: A Hands-On Intro to LLMs, Jailbreaks, and Adversarial Prompting*](https://github.com/randalltr/prompt-engineering-for-hackers)
 - 🟡 [***AI Red Teaming Playbook**: A Prompt-Driven “Choose Your Own Jailbreak” for Exploring and Exploiting Chatbots*](https://github.com/randalltr/ai-red-teaming-playbook)
 - 🔴 [***Red Teaming the Prompt**: A Complete Hacker’s Guide to LLM Exploits*](https://github.com/randalltr/red-teaming-the-prompt)
+- ⚫️ [***Hacking AI**: The Definitive Guide* (In Progress)](https://github.com/randalltr/hacking-ai-definitive-guide)
 - ⚫️ [***Black Hat AI**: Offensive Techniques for Breaking and Bending Machine Minds*](https://github.com/randalltr/black-hat-ai)
 
 **🔓 Difficulty Key:** 🟢 Easy &nbsp;&nbsp; 🟡 Medium &nbsp;&nbsp; 🔴 Hard &nbsp;&nbsp; ⚫️ Expert
