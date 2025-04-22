@@ -9,7 +9,7 @@ I'm a former NASA contractor, current instructor at **CodeNoobs**, and passionat
 What can you help me with?
 ```
 
-And then take the response to my favorite book, the [***AI Red Teaming Playbook**: A Prompt-Driven “Choose Your Own Jailbreak” for Exploring and Exploiting Chatbots*](https://github.com/randalltr/ai-red-teaming-playbook/blob/main/chapters/01-begin-the-recon.md), to find out what to do next.
+And then take the response to my favorite book, the [***AI Red Teaming Playbook**: A Prompt-Driven “Choose Your Own Jailbreak” for Exploring and Exploiting Chatbots*](https://github.com/randalltr/ai-red-teaming-playbook/blob/main/chapters/01-begin-the-recon.md#-how-to-read-the-response), to find out what to do next.
 
 ---
 
