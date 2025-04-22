@@ -3,6 +3,14 @@ Classically trained in programming and cybersecurity, I now focus on the next fr
 
 I'm a former NASA contractor, current instructor at **CodeNoobs**, and passionate about aligning cutting-edge tech with real-world safety.
 
+If you're looking for where to get started with AI Hacking, drop this prompt in your favorite LLM:
+
+```
+What can you help me with?
+```
+
+And then take the response to my favorite book, the [***AI Red Teaming Playbook**: A Prompt-Driven “Choose Your Own Jailbreak” for Exploring and Exploiting Chatbots*](https://github.com/randalltr/ai-red-teaming-playbook/blob/main/chapters/01-begin-the-recon.md), to find out what to do next.
+
 ---
 
 📚 **Publications**
