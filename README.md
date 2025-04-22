@@ -3,7 +3,7 @@ Classically trained in programming and cybersecurity, I now focus on the next fr
 
 I'm a former NASA contractor, current instructor at **CodeNoobs**, and passionate about aligning cutting-edge tech with real-world safety.
 
-If you're looking for where to get started with AI Hacking, drop this prompt in your favorite LLM:
+👉 If you're looking for where to get started with AI Hacking, drop this prompt in your favorite LLM:
 
 ```
 What can you help me with?
