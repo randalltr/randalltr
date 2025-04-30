@@ -27,6 +27,22 @@ Then take the response to my favorite book, the [***AI Red Teaming Playbook**: A
 
 ---
 
+🔬 **AI Red Teaming Writeups & Walkthroughs**
+
+> A growing archive of hands-on jailbreaks, adversarial prompt chains, and vulnerability research from real-world LLM red teaming exercises.
+
+- 🔴 [***HiddenLayer’s Universal LLM Jailbreak***](https://github.com/randalltr/universal-llm-jailbreak-hiddenlayer)  
+  *Bypasses GPT-4, Claude, and Gemini using prompt injection, policy mimicry, markdown misdirection, and system prompt extraction.*  
+  *Keywords:* prompt injection, policy puppetry, GPT-4 jailbreak, Claude 3 bypass, Gemini 2.5 vulnerability, red teaming, LLM exploits
+
+- 🧙 [***Gandalf AI Walkthrough (Coming Soon)***]()  
+  *Level-by-level breakdown of the Gandalf prompt injection game—featuring prompt leak chaining, memory edge cases, and fourth-wall misdirection.*
+
+- ✈️ [***Prompt Airlines Exploit Guide (Coming Soon)***]()  
+  *Adversarial prompt engineering against airline booking LLMs. Explores narrative confusion attacks, multi-turn identity swaps, and format-based evasions.*
+
+---
+
 🔐 **Certifications**
 - MS in Cybersecurity, BS in Physics and Philosophy  
 - AIRTP+ (AI Red Teaming Professional)  
