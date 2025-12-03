@@ -6,7 +6,7 @@ Experienced in AI red teaming and adversarial prompting.
 
 Now fully focused on mastering traditional offensive security.
 
-I'm a former NASA contractor and instructor at CodeNoobs. Passionate about aligning cutting-edge tech with real-world safety.
+I'm a former NASA contractor, passionate about aligning cutting-edge tech with real-world safety.
 
 ---
 
