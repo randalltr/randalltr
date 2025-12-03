@@ -1,7 +1,12 @@
-# 👾 **AI Red Teamer | Offensive Security Specialist | Instructor**  
-Classically trained in programming and cybersecurity, I now focus on the next frontier: AI Red Teaming.
+# 👾 **AI Red Teamer -> Future Red Team Operator | Offensive Security Specialist | Instructor**  
 
-I'm a former NASA contractor, current instructor at **CodeNoobs**, and passionate about aligning cutting-edge tech with real-world safety.
+Classically trained in programming and cybersecurity.
+
+Experienced in AI red teaming and adversarial prompting.
+
+Now fully focused on mastering traditional offensive security.
+
+I'm a former NASA contractor and instructor at CodeNoobs. Passionate about aligning cutting-edge tech with real-world safety.
 
 ---
 
@@ -21,23 +26,37 @@ Then take the response to my favorite book, the [***AI Red Teaming Playbook**: A
 - 🟡 [***AI Red Teaming Playbook**: A Prompt-Driven “Choose Your Own Jailbreak” for Exploring and Exploiting Chatbots*](https://github.com/randalltr/ai-red-teaming-playbook)
 - 🔴 [***Red Teaming the Prompt**: A Complete Hacker’s Guide to LLM Exploits*](https://github.com/randalltr/red-teaming-the-prompt)
 - ⚫️ [***Black Hat AI**: Offensive Techniques for Breaking and Bending Machine Minds*](https://github.com/randalltr/black-hat-ai)
-- ⚫️ [***Hacking AI**: The Definitive Guide*](https://github.com/randalltr/hacking-ai-definitive-guide) (In Progress)
+- ⚫️ [***Hacking AI**: The Definitive Guide -- Community Project*](https://github.com/randalltr/hacking-ai-definitive-guide)
+   > Originally a solo book, now transitioning into a collaborative resource. Open to contributors who want to help build a comprehensive offensive AI reference.
 
 **🔓 Difficulty Key:** 🟢 Easy &nbsp;&nbsp; 🟡 Medium &nbsp;&nbsp; 🔴 Hard &nbsp;&nbsp; ⚫️ Expert
 
 ---
 
-🔬 **AI Red Teaming Writeups & Walkthroughs**
+🔬 **AI Red Teaming Writeups**
 
-- 🔴 [***HiddenLayer’s Universal Prompt Injection via Policy Puppetry***](https://github.com/randalltr/universal-llm-jailbreak-hiddenlayer)  
+- 🧙 [***HiddenLayer’s Universal Prompt Injection via Policy Puppetry***](https://github.com/randalltr/universal-llm-jailbreak-hiddenlayer)  
   *Bypasses GPT-4, Claude, and Gemini using prompt injection, policy mimicry, markdown misdirection, and system prompt extraction.*  
   *Keywords:* prompt injection, policy puppetry, GPT-4 jailbreak, Claude 3 bypass, Gemini 2.5 vulnerability, red teaming, LLM exploits
 
-- 🧙 [***Gandalf AI Walkthrough***](https://gandalf.lakera.ai/gandalf) (Coming Soon)  
-  *Level-by-level breakdown of the Gandalf prompt injection game—featuring prompt leak chaining, memory edge cases, and fourth-wall misdirection.*
+---
 
-- ✈️ [***Prompt Airlines Exploit Guide***](https://promptairlines.com/) (Coming Soon)  
-  *Adversarial prompt engineering against airline booking LLMs. Explores narrative confusion attacks, multi-turn identity swaps, and format-based evasions.*
+🔧 **OSCP Pentest Writeups & Methodology**
+
+- 👉 [***OSCP-Style Reports for PG Practice + HTB***](https://github.com/randalltr/oscp-pg-practice-writeups)
+  *Full OSCP-style pentest reports, enumeration notes, privilege escalation chains, and methodology tracking. All part of my dedicated OSCP training pipeline*
+
+---
+
+🎯 **Current Focus & Career Path**
+
+After completing a master's in cybersecurity and extensive work in AI red teaming, I'm now fully invested in building the foundations required for **traditional red team operations**.
+
+- **OSCP** -> the gateway to being taken seriously as an ethical hacker.
+- **OSCE³** -> the long-term north star for deep technical mastery.
+- Daily training across HTB, PG Practice, labs, exploit development, and system internals.
+
+My AI red teaming background is a strength, but my future is in full-spectrum offensive security.
 
 ---
 
@@ -51,15 +70,18 @@ Then take the response to my favorite book, the [***AI Red Teaming Playbook**: A
 ---
 
 🧠 **Focus Areas**
-- AI Red Teaming & Adversarial Testing  
-- Prompt Injection & Jailbreak Analysis  
-- Web App Security & Pentesting  
-- Ethical Hacking Education & Simulation  
+- Traditional Red Teaming & OSCP/OSCE³ Preparation 
+- Web App Security & Network Penetration Testing 
+- Privilege Escalation, Post-Exploitation, and Attack Chains 
+- AI Red Teaming & Prompt Injection Analysis
+- Ethical Hacking Education & Simulation
 
 ---
 
 🔬 **Projects**
-Coming Soon: More AI Red Teaming books, adversarial AI writeups, and lightweight tools to support AI security research.
+Right now my projects revolve around one mission:
+
+**Train hard, earn the OSCP, progress toward OSCE³, and build the technical foundation for a career in real-world red team operations.**
 
 ---
 
