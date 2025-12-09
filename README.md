@@ -21,12 +21,12 @@ Then take the response to the [**AI Red Teaming Playbook**](https://github.com/r
 ---
 
 📚 **Publications**
-- 🟢 [***AI Hacking for Beginners**: A Hands-On Guide to Prompt Injection, Jailbreaking, and Red Teaming LLMs*](https://github.com/randalltr/ai-hacking-for-beginners)
-- 🟡 [***Prompt Engineering for Hackers**: A Hands-On Intro to LLMs, Jailbreaks, and Adversarial Prompting*](https://github.com/randalltr/prompt-engineering-for-hackers)
-- 🟡 [***AI Red Teaming Playbook**: A Prompt-Driven “Choose Your Own Jailbreak” for Exploring and Exploiting Chatbots*](https://github.com/randalltr/ai-red-teaming-playbook)
-- 🔴 [***Red Teaming the Prompt**: A Complete Hacker’s Guide to LLM Exploits*](https://github.com/randalltr/red-teaming-the-prompt)
-- ⚫️ [***Black Hat AI**: Offensive Techniques for Breaking and Bending Machine Minds*](https://github.com/randalltr/black-hat-ai)
-- ⚫️ [***Hacking AI**: The Definitive Guide -- Community Project*](https://github.com/randalltr/hacking-ai-definitive-guide)
+- 🟢 [**AI Hacking for Beginners**: *A Hands-On Guide to Prompt Injection, Jailbreaking, and Red Teaming LLMs*](https://github.com/randalltr/ai-hacking-for-beginners)
+- 🟡 [**Prompt Engineering for Hackers**: *A Hands-On Intro to LLMs, Jailbreaks, and Adversarial Prompting*](https://github.com/randalltr/prompt-engineering-for-hackers)
+- 🟡 [**AI Red Teaming Playbook**: *A Prompt-Driven “Choose Your Own Jailbreak” for Exploring and Exploiting Chatbots*](https://github.com/randalltr/ai-red-teaming-playbook)
+- 🔴 [**Red Teaming the Prompt**: *A Complete Hacker’s Guide to LLM Exploits*](https://github.com/randalltr/red-teaming-the-prompt)
+- ⚫️ [**Black Hat AI**: *Offensive Techniques for Breaking and Bending Machine Minds*](https://github.com/randalltr/black-hat-ai)
+- ⚫️ [**Hacking AI**: *The Definitive Guide — Community Project*](https://github.com/randalltr/hacking-ai-definitive-guide)
    > Originally a solo book, now transitioning into a collaborative resource. Open to contributors who want to help build a comprehensive offensive AI reference.
 
 **🔓 Difficulty Key:** 🟢 Easy &nbsp;&nbsp; 🟡 Medium &nbsp;&nbsp; 🔴 Hard &nbsp;&nbsp; ⚫️ Expert
@@ -35,7 +35,7 @@ Then take the response to the [**AI Red Teaming Playbook**](https://github.com/r
 
 🔬 **AI Red Teaming Writeups**
 
-- 🧙 [***HiddenLayer’s Universal Prompt Injection via Policy Puppetry***](https://github.com/randalltr/universal-llm-jailbreak-hiddenlayer)  
+- 🧙 [**HiddenLayer’s Universal Prompt Injection via Policy Puppetry**](https://github.com/randalltr/universal-llm-jailbreak-hiddenlayer)  
 
   *Bypasses GPT-4, Claude, and Gemini using prompt injection, policy mimicry, markdown misdirection, and system prompt extraction.*  
   *Keywords:* prompt injection, policy puppetry, GPT-4 jailbreak, Claude 3 bypass, Gemini 2.5 vulnerability, red teaming, LLM exploits
@@ -44,7 +44,7 @@ Then take the response to the [**AI Red Teaming Playbook**](https://github.com/r
 
 🔧 **OSCP Pentest Writeups & Methodology**
 
-- 👉 [***OSCP-Style Reports for PG Practice + HTB***](https://github.com/randalltr/oscp-pg-practice-writeups)
+- 👉 [**OSCP-Style Reports for PG Practice + HTB**](https://github.com/randalltr/oscp-pg-practice-writeups)
 
   *Full OSCP-style pentest reports, enumeration notes, privilege escalation chains, and methodology tracking. All part of my dedicated OSCP training pipeline*
 
