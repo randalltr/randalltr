@@ -16,7 +16,7 @@ I'm a former NASA contractor, passionate about aligning cutting-edge tech with r
 What can you help me with?
 ```
 
-Then take the response to the [***AI Red Teaming Playbook**](https://github.com/randalltr/ai-red-teaming-playbook/blob/main/chapters/01-begin-the-recon.md#-how-to-read-the-response), to find out what to do next.
+Then take the response to the [**AI Red Teaming Playbook**](https://github.com/randalltr/ai-red-teaming-playbook/blob/main/chapters/01-begin-the-recon.md#-how-to-read-the-response), to find out what to do next.
 
 ---
 
