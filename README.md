@@ -1,4 +1,4 @@
-# 👾 **AI Red Teamer -> Future Red Team Operator | Offensive Security Specialist | Instructor**  
+# 👾 **AI Red Teamer -> Future Red Team Operator**  
 
 Classically trained in programming and cybersecurity.
 
