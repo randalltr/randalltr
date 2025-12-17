@@ -1,12 +1,6 @@
 # 👾 **AI Red Teamer -> Future Red Team Operator**  
 
-Classically trained in programming and cybersecurity.
-
-Experienced in AI red teaming and adversarial prompting.
-
-Now fully focused on mastering traditional offensive security.
-
-I'm a former NASA contractor, passionate about aligning cutting-edge tech with real-world safety.
+Former NASA contractor with classical training in programming and cybersecurity, hands-on AI red teaming experience, and a current focus on offensive security.
 
 ---
 
