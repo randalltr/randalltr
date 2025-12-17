@@ -19,8 +19,7 @@ Former NASA contractor with classical training in programming and cybersecurity,
 
 - 🧙 [**HiddenLayer’s Universal Prompt Injection via Policy Puppetry**](https://github.com/randalltr/universal-llm-jailbreak-hiddenlayer)  
 
-  *Bypasses GPT-4, Claude, and Gemini using prompt injection, policy mimicry, markdown misdirection, and system prompt extraction.*  
-  *Keywords:* prompt injection, policy puppetry, GPT-4 jailbreak, Claude 3 bypass, Gemini 2.5 vulnerability, red teaming, LLM exploits
+  *Bypasses GPT-4, Claude, and Gemini using prompt injection, policy mimicry, markdown misdirection, and system prompt extraction.*
 
 ---
 
