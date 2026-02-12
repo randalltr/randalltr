@@ -8,7 +8,7 @@ Background in AI red teaming and adversarial machine learning.
 
 🔧 **OSCP Pentest Writeups & Methodology**
 
-- 👉 [**OSCP-Style Reports for PG Practice + HTB**](https://github.com/randalltr/oscp-pg-practice-writeups)
+- 👉 [**OSCP-Style Reports for Proving Grounds Practice + HackTheBox**](https://github.com/randalltr/oscp-pg-practice-writeups)
 
   *Full OSCP-style pentest reports, enumeration notes, privilege escalation chains, and methodology tracking. All part of my dedicated OSCP training pipeline*
 
