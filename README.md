@@ -1,25 +1,7 @@
-# 👾 **Future Red Team Operator**  
+# 👾 **AI Red Teamer -> Future Red Team Operator**  
 
-Former NASA contractor with classical training in programming and cybersecurity, hands-on AI red teaming experience, and a current focus on offensive security.
-
----
-
-📚 **Publications**
-- 🟢 [**AI Hacking for Beginners**: *A Hands-On Guide to Prompt Injection, Jailbreaking, and Red Teaming LLMs*](https://github.com/randalltr/ai-hacking-for-beginners)
-- 🟡 [**Prompt Engineering for Hackers**: *A Hands-On Intro to LLMs, Jailbreaks, and Adversarial Prompting*](https://github.com/randalltr/prompt-engineering-for-hackers)
-- 🟡 [**AI Red Teaming Playbook**: *A Prompt-Driven “Choose Your Own Jailbreak” for Exploring and Exploiting Chatbots*](https://github.com/randalltr/ai-red-teaming-playbook)
-- 🔴 [**Red Teaming the Prompt**: *A Complete Hacker’s Guide to LLM Exploits*](https://github.com/randalltr/red-teaming-the-prompt)
-- ⚫️ [**Black Hat AI**: *Offensive Techniques for Breaking and Bending Machine Minds*](https://github.com/randalltr/black-hat-ai)
-
-**🔓 Difficulty Key:** 🟢 Easy &nbsp;&nbsp; 🟡 Medium &nbsp;&nbsp; 🔴 Hard &nbsp;&nbsp; ⚫️ Expert
-
----
-
-🔬 **AI Red Teaming Writeups**
-
-- 🧙 [**HiddenLayer’s Universal Prompt Injection via Policy Puppetry**](https://github.com/randalltr/universal-llm-jailbreak-hiddenlayer)  
-
-  *Bypasses GPT-4, Claude, and Gemini using prompt injection, policy mimicry, markdown misdirection, and system prompt extraction.*
+Former NASA contractor with classical training in programming and cybersecurity, currently focused on **offensive security, OSCP preparation, and traditional red team operations**.  
+Background in AI red teaming and adversarial machine learning.
 
 ---
 
@@ -58,6 +40,25 @@ My AI red teaming background is a strength, but my future is in full-spectrum of
 - Privilege Escalation, Post-Exploitation, and Attack Chains 
 - AI Red Teaming & Prompt Injection Analysis
 - Ethical Hacking Education & Simulation
+
+---
+
+📚 **Publications**
+- 🟢 [**AI Hacking for Beginners**: *A Hands-On Guide to Prompt Injection, Jailbreaking, and Red Teaming LLMs*](https://github.com/randalltr/ai-hacking-for-beginners)
+- 🟡 [**Prompt Engineering for Hackers**: *A Hands-On Intro to LLMs, Jailbreaks, and Adversarial Prompting*](https://github.com/randalltr/prompt-engineering-for-hackers)
+- 🟡 [**AI Red Teaming Playbook**: *A Prompt-Driven “Choose Your Own Jailbreak” for Exploring and Exploiting Chatbots*](https://github.com/randalltr/ai-red-teaming-playbook)
+- 🔴 [**Red Teaming the Prompt**: *A Complete Hacker’s Guide to LLM Exploits*](https://github.com/randalltr/red-teaming-the-prompt)
+- ⚫️ [**Black Hat AI**: *Offensive Techniques for Breaking and Bending Machine Minds*](https://github.com/randalltr/black-hat-ai)
+
+**🔓 Difficulty Key:** 🟢 Easy &nbsp;&nbsp; 🟡 Medium &nbsp;&nbsp; 🔴 Hard &nbsp;&nbsp; ⚫️ Expert
+
+---
+
+🔬 **AI Red Teaming Writeups**
+
+- 🧙 [**HiddenLayer’s Universal Prompt Injection via Policy Puppetry**](https://github.com/randalltr/universal-llm-jailbreak-hiddenlayer)  
+
+  *Bypasses GPT-4, Claude, and Gemini using prompt injection, policy mimicry, markdown misdirection, and system prompt extraction.*
 
 ---
 
