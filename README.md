@@ -1,6 +1,7 @@
 # 👾 **AI Red Teamer -> Future Red Team Operator**  
 
 Former NASA contractor with classical training in programming and cybersecurity, currently focused on **offensive security, OSCP preparation, and traditional red team operations**.  
+
 Background in AI red teaming and adversarial machine learning.
 
 ---
