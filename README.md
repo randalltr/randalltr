@@ -70,7 +70,7 @@ My AI red teaming background is a strength, but my future is in full-spectrum of
 
 ---
 
-📚 **Publications**
+📚 **AI Hacking / AI Red Teaming Publications**
 - 🟢 [**AI Hacking for Beginners**: *A Hands-On Guide to Prompt Injection, Jailbreaking, and Red Teaming LLMs*](https://github.com/randalltr/ai-hacking-for-beginners)
 - 🟡 [**Prompt Engineering for Hackers**: *A Hands-On Intro to LLMs, Jailbreaks, and Adversarial Prompting*](https://github.com/randalltr/prompt-engineering-for-hackers)
 - 🟡 [**AI Red Teaming Playbook**: *A Prompt-Driven “Choose Your Own Jailbreak” for Exploring and Exploiting Chatbots*](https://github.com/randalltr/ai-red-teaming-playbook)
