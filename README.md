@@ -33,7 +33,7 @@ My AI red teaming background is a strength, but my future is in full-spectrum of
                │              │              │
                ▼              │              │
         ┌──────────────┐      │              │
-        │     OSWE     │─────▶│    OSCE3     │
+        │     OSWE     │─────▶│    OSCE³     │
         └──────┬───────┘      │              │
                │              │              │
                ▼              │              │
