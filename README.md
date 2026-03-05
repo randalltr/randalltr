@@ -6,14 +6,6 @@ Background in AI red teaming and adversarial machine learning.
 
 ---
 
-🔧 **OSCP Pentest Writeups & Methodology**
-
-- 👉 [**OSCP-Style Reports for Proving Grounds Practice + HackTheBox**](https://github.com/randalltr/oscp-pg-practice-writeups)
-
-  *Full OSCP-style pentest reports, enumeration notes, privilege escalation chains, and methodology tracking. All part of my dedicated OSCP training pipeline*
-
----
-
 🎯 **Current Focus & Career Path**
 
 After completing a master's in cybersecurity and extensive work in AI red teaming, I'm now fully invested in building the foundations required for **traditional red team operations**.
@@ -23,6 +15,40 @@ After completing a master's in cybersecurity and extensive work in AI red teamin
 - Daily training across HTB, PG Practice, labs, exploit development, and system internals.
 
 My AI red teaming background is a strength, but my future is in full-spectrum offensive security.
+
+```
+        ┌──────────────┐
+        │     OSCP     │
+        └──────┬───────┘
+               │
+               ▼
+        ┌──────────────┐      ┌──────────────┐
+        │     CRTO     │─────▶│     CVEs     │
+        └──────┬───────┘      └──────────────┘
+               │                     
+               ▼                     
+        ┌──────────────┐      ┌──────────────┐
+        │     OSEP     │─────▶│              │
+        └──────┬───────┘      │              │
+               │              │              │
+               ▼              │              │
+        ┌──────────────┐      │              │
+        │     OSWE     │─────▶│    OSCE3     │
+        └──────┬───────┘      │              │
+               │              │              │
+               ▼              │              │
+        ┌──────────────┐      │              │
+        │     OSED     │─────▶│              │
+        └──────────────┘      └──────────────┘
+```
+
+---
+
+🔧 **OSCP Pentest Writeups & Methodology**
+
+- 👉 [**OSCP-Style Reports for Proving Grounds Practice + HackTheBox**](https://github.com/randalltr/oscp-pg-practice-writeups)
+
+  *Full OSCP-style pentest reports, enumeration notes, privilege escalation chains, and methodology tracking. All part of my dedicated OSCP training pipeline*
 
 ---
 
