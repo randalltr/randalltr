@@ -1,14 +1,6 @@
 # 👾 **AI Red Teamer -> Future Red Team Operator**  
 
-Former NASA contractor with classical training in programming and cybersecurity, currently focused on **offensive security, OSCP preparation, and traditional red team operations**.  
-
-Background in AI red teaming and adversarial machine learning.
-
----
-
-🎯 **Current Focus & Career Path**
-
-After completing a master's in cybersecurity and extensive work in AI red teaming, I'm now fully invested in building the foundations required for **traditional red team operations**.
+Former NASA contractor with background in AI red teaming and master's in cybersecurity. Now I'm now fully invested in building the foundations required for **traditional red team operations**.
 
 - **OSCP** -> the gateway to being taken seriously as an ethical hacker.
 - **OSCE³** -> the long-term north star for deep technical mastery.
