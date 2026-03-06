@@ -2,12 +2,6 @@
 
 Former NASA contractor with background in AI red teaming and master's in cybersecurity. Now I'm now fully invested in building the foundations required for **traditional red team operations**.
 
-- **OSCP** -> the gateway to being taken seriously as an ethical hacker.
-- **OSCE³** -> the long-term north star for deep technical mastery.
-- Daily training across HTB, PG Practice, labs, exploit development, and system internals.
-
-My AI red teaming background is a strength, but my future is in full-spectrum offensive security.
-
 ```
         ┌──────────────┐
         │     OSCP     │
@@ -33,6 +27,12 @@ My AI red teaming background is a strength, but my future is in full-spectrum of
         │     OSED     │─────▶│              │
         └──────────────┘      └──────────────┘
 ```
+
+- **OSCP** -> the gateway to being taken seriously as an ethical hacker.
+- **OSCE³** -> the long-term north star for deep technical mastery.
+- Daily training across HTB, PG Practice, labs, exploit development, and system internals.
+
+My AI red teaming background is a strength, but my future is in full-spectrum offensive security.
 
 ---
 
