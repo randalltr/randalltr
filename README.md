@@ -46,7 +46,7 @@ My AI red teaming background is a strength, but my future is in full-spectrum of
 
 📚 **Traditional Hacking Publications**
 
-- 🟢 [**Start Hacking Today: The Only 3 Tools You Need**](https://github.com/randalltr/start-hacking-today)
+- 🟢 [**Start Hacking Today**: *The Only 3 Tools You Need*](https://github.com/randalltr/start-hacking-today)
 
   *A minimalist guide for beginners who feel overwhelmed by hacking tools. Learn ethical hacking using only three core tools: Nmap, ExploitDB/Searchsploit, and Burp Suite. Includes a practical workflow, setup guide, and Hack The Box practice path.*
 
