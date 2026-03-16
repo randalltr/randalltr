@@ -44,21 +44,11 @@ My AI red teaming background is a strength, but my future is in full-spectrum of
 
 ---
 
-🔐 **Certifications**
-- MS in Cybersecurity, BS in Physics and Philosophy  
-- AIRTP+ (AI Red Teaming Professional)  
-- CompTIA Pentest+, CySA+, Security+, Network+  
-- AWS Developer, Solutions Architect, and Cloud Practitioner 
-- HashiCorp Terraform Associate
+📚 **Traditional Hacking Publications**
 
----
+- 🟢 [**Start Hacking Today: The Only 3 Tools You Need**](https://github.com/randalltr/start-hacking-today)
 
-🧠 **Focus Areas**
-- Traditional Red Teaming & OSCP/OSCE³ Preparation 
-- Web App Security & Network Penetration Testing 
-- Privilege Escalation, Post-Exploitation, and Attack Chains 
-- AI Red Teaming & Prompt Injection Analysis
-- Ethical Hacking Education & Simulation
+  *A minimalist guide for beginners who feel overwhelmed by hacking tools. Learn ethical hacking using only three core tools: Nmap, ExploitDB/Searchsploit, and Burp Suite. Includes a practical workflow, setup guide, and Hack The Box practice path.*
 
 ---
 
@@ -78,6 +68,24 @@ My AI red teaming background is a strength, but my future is in full-spectrum of
 - 🧙 [**HiddenLayer’s Universal Prompt Injection via Policy Puppetry**](https://github.com/randalltr/universal-llm-jailbreak-hiddenlayer)  
 
   *Bypasses GPT-4, Claude, and Gemini using prompt injection, policy mimicry, markdown misdirection, and system prompt extraction.*
+
+---
+
+🔐 **Certifications**
+- MS in Cybersecurity, BS in Physics and Philosophy  
+- AIRTP+ (AI Red Teaming Professional)  
+- CompTIA Pentest+, CySA+, Security+, Network+  
+- AWS Developer, Solutions Architect, and Cloud Practitioner 
+- HashiCorp Terraform Associate
+
+---
+
+🧠 **Focus Areas**
+- Traditional Red Teaming & OSCP/OSCE³ Preparation 
+- Web App Security & Network Penetration Testing 
+- Privilege Escalation, Post-Exploitation, and Attack Chains 
+- AI Red Teaming & Prompt Injection Analysis
+- Ethical Hacking Education & Simulation
 
 ---
 
